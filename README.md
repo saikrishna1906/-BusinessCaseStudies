@@ -1,4 +1,4 @@
-##BusinessCaseStudy##
+#BusinessCaseStudy
 
 Case Studies and EDA Projects:
 
