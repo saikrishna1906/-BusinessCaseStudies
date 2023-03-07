@@ -1,30 +1,30 @@
 # BusinessCaseStudy
 
-Case Studies and EDA Projects:
+## Case Studies and EDA Projects:
 
 This CaseStudy projects involve:
 
-Data Preprocessing 
+* Data Preprocessing 
 
-Data Cleaning
+* Data Cleaning
 
-SQL
+* SQL
 
-Data Visualization
+* Data Visualization
 
-Statistical Analysis
+* Statistical Analysis
 
-Hypothesis Testing
+* Hypothesis Testing
 
-Feature Engineering
+* Feature Engineering
 
-Supervised/Unsupervised Learning
+* Supervised/Unsupervised Learning
 
-Regression Techniques
+* Regression Techniques
 
-Classification Techniques
+* Classification Techniques
 
-Ensemble Technqiues
+* Ensemble Technqiues
 
-Clustering
+* Clustering
 
